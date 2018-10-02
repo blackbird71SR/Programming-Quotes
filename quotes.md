@@ -14,3 +14,5 @@
 14. > Everyone knows that debugging is twice as hard as writing a program in the first place. So if you're as clever as you can be when you write it, how will you ever debug it? __Brian Kernighan__
 15. > Simple is better than complex. Complex is better than complicated. __Tim Peters__
 16. > Every good Programmers are start from Noobgrammers. __Naufal Yudhistira__
+17. > Any fool can write code that a computer can understand. Good programmers write code that humans can understand __Martin Fowler__
+
