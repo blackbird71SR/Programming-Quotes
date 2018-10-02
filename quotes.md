@@ -9,3 +9,4 @@
 9. > Punishments include such things as flashbacks, flooding of unbearable emotions, painful body memories, flooding of memories in which the survivor perpetrated against others, self-harm, and suicide attempts. __Alison Miller__
 10. > Computers are good at following instructions,but not at reading your mind. __Donald Knuth__
 11. > 80% of Computer Science is detective work. You have to investigate to determine what did and didn't happen and why.  __Tom Bredemeier__
+12. > Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program. __Linus Torvalds__
