@@ -1,6 +1,8 @@
 # Programming-Quotes
 Repository containing various programming quotes
 
+[Quotes](https://omkar-ajnadkar.github.io/Programming-Quotes/quotes.html)
+
 Let's create a list of programming related quotes in this Hacktoberfest...
 
 ## Rules:
