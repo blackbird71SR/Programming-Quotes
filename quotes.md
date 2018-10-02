@@ -12,3 +12,4 @@
 12. > Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program. __Linus Torvalds__
 13. > The idea that I can be presented with a problem, set out to logically solve it with the tools at hand, and wind up with a program that could not be legally used because someone else followed the same logical steps some years ago and filed for a patent on it is horrifying. __John Carmack__
 14. > Everyone knows that debugging is twice as hard as writing a program in the first place. So if you're as clever as you can be when you write it, how will you ever debug it? __Brian Kernighan__
+15. > A language that doesn't affect the way you think about programming is not worth knowing. __Alan J. Perlis__
