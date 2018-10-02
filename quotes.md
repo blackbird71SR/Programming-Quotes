@@ -15,4 +15,4 @@
 15. > Simple is better than complex. Complex is better than complicated. __Tim Peters__
 16. > Every good Programmers are start from Noobgrammers. __Naufal Yudhistira__
 17. > Any fool can write code that a computer can understand. Good programmers write code that humans can understand __Martin Fowler__
-
+18. > Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live. __John woods__
