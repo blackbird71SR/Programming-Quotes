@@ -18,3 +18,6 @@
 18. > Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live. __John woods__
 19. > A language that doesn't affect the way you think about programming is not worth knowing. __Alan J. Perlis__
 20. > Everybody in this country should learn to program a computer, because it teaches you how to think! __Steve Jobs__
+21. > When debugging, novices insert corrective code; experts remove defective code. __Richard Pattis__
+22. > Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program. __Linus Torvalds__
+23. > Before software can be reusable it first has to be usable. __Ralph Johnson__
