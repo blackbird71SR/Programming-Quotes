@@ -9,3 +9,8 @@
 9. > Punishments include such things as flashbacks, flooding of unbearable emotions, painful body memories, flooding of memories in which the survivor perpetrated against others, self-harm, and suicide attempts. __Alison Miller__
 10. > Computers are good at following instructions,but not at reading your mind. __Donald Knuth__
 11. > 80% of Computer Science is detective work. You have to investigate to determine what did and didn't happen and why.  __Tom Bredemeier__
+12. > When debugging, novices insert corrective code; experts remove defective code. __Richard Pattis__
+13. > Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program. __Linus Torvalds__
+14. > Before software can be reusable it first has to be usable. __Ralph Johnson__
+15. > Any fool can write code that a computer can understand. Good programmers write code that humans can understand. __Martin Fowler__
+15. > Programming is like sex. One mistake and you have to support it for the rest of your life. __Michael Sinz__
