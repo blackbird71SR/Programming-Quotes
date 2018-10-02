@@ -22,3 +22,4 @@
 22. > Before software can be reusable it first has to be usable. __Ralph Johnson__
 23. > Enlightenment is the unprogrammed state. __Jed McKenna__ 
 24. > Walking on water and developing software from a specification are easy if both are frozen. __Edward V Berard__
+25. > Programming isn't about what you know; it's about what you can figure out. __Chris Pine__
