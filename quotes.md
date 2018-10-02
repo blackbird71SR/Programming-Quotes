@@ -10,3 +10,5 @@
 10. > Computers are good at following instructions,but not at reading your mind. __Donald Knuth__
 11. > 80% of Computer Science is detective work. You have to investigate to determine what did and didn't happen and why.  __Tom Bredemeier__
 12. > Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program. __Linus Torvalds__
+13. > The idea that I can be presented with a problem, set out to logically solve it with the tools at hand, and wind up with a program that could not be legally used because someone else followed the same logical steps some years ago and filed for a patent on it is horrifying. __John Carmack__
+14. > Everyone knows that debugging is twice as hard as writing a program in the first place. So if you're as clever as you can be when you write it, how will you ever debug it? __Brian Kernighan__
