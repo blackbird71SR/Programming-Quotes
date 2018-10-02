@@ -4,3 +4,4 @@
 4. > I'm not a great programmer; I'm just a good programmer with great habits. __Kent Beck__
 5. > If builders built buildings the way programmers wrote programs, then the first woodpecker that came along would destroy civilization. __Gerald Weinberg__
 6. > What one programmer can do in one month, two programmers can do in two months. __Fred Brooks__
+7. > Programming: when the ideas turn into the real things. __Maciej Kaczmarek__
