@@ -5,3 +5,5 @@
 5. > If builders built buildings the way programmers wrote programs, then the first woodpecker that came along would destroy civilization. __Gerald Weinberg__
 6. > What one programmer can do in one month, two programmers can do in two months. __Fred Brooks__
 7. > Programming: when the ideas turn into the real things. __Maciej Kaczmarek__
+8. > Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the Universe trying to produce bigger and better idiots. So far, the Universe is winning.__Rick Cook__
+9. > Punishments include such things as flashbacks, flooding of unbearable emotions, painful body memories, flooding of memories in which the survivor perpetrated against others, self-harm, and suicide attempts. __Alison Miller__
