@@ -21,3 +21,4 @@
 21. > When debugging, novices insert corrective code; experts remove defective code. __Richard Pattis__
 22. > Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program. __Linus Torvalds__
 23. > Before software can be reusable it first has to be usable. __Ralph Johnson__
+24. > Enlightenment is the unprogrammed state. __Jed McKenna__ 
