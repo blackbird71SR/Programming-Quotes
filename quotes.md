@@ -23,3 +23,4 @@
 23. > Enlightenment is the unprogrammed state. __Jed McKenna__ 
 24. > Walking on water and developing software from a specification are easy if both are frozen. __Edward V Berard__
 25. > Programming isn't about what you know; it's about what you can figure out. __Chris Pine__
+26. > The question of whether a computer can think is no more interesting than the question of whether a submarine can swim. __Edsger Dijkstra__
