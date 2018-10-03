@@ -26,3 +26,4 @@
 26. > The question of whether a computer can think is no more interesting than the question of whether a submarine can swim. __Edsger Dijkstra__
 27. > Debugging is like being the detective in a crime movie where you are also the murderer. __Filipe Fortes__
 28. > when you don't create things, you become defined by your tastes rather than ability. ...
+29. > Computers are good at following instructions,but not at reading your mind. __Donald Knuth__
