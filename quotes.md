@@ -22,3 +22,4 @@
 22. > Before software can be reusable it first has to be usable. __Ralph Johnson__
 23. > Enlightenment is the unprogrammed state. __Jed McKenna__ 
 24. > Walking on water and developing software from a specification are easy if both are frozen. __Edward V Berard__
+25. > The question of whether a computer can think is no more interesting than the question of whether a submarine can swim. __Edsger Dijkstra__
