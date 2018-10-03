@@ -12,4 +12,17 @@
 12. > Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program. __Linus Torvalds__
 13. > The idea that I can be presented with a problem, set out to logically solve it with the tools at hand, and wind up with a program that could not be legally used because someone else followed the same logical steps some years ago and filed for a patent on it is horrifying. __John Carmack__
 14. > Everyone knows that debugging is twice as hard as writing a program in the first place. So if you're as clever as you can be when you write it, how will you ever debug it? __Brian Kernighan__
-15. > when you don't create things, you become defined by your tastes rather than ability. ...
+15. > Simple is better than complex. Complex is better than complicated. __Tim Peters__
+16. > Every good Programmers are start from Noobgrammers. __Naufal Yudhistira__
+17. > Any fool can write code that a computer can understand. Good programmers write code that humans can understand __Martin Fowler__
+18. > Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live. __John woods__
+19. > A language that doesn't affect the way you think about programming is not worth knowing. __Alan J. Perlis__
+20. > Everybody in this country should learn to program a computer, because it teaches you how to think! __Steve Jobs__
+21. > When debugging, novices insert corrective code; experts remove defective code. __Richard Pattis__
+22. > Before software can be reusable it first has to be usable. __Ralph Johnson__
+23. > Enlightenment is the unprogrammed state. __Jed McKenna__ 
+24. > Walking on water and developing software from a specification are easy if both are frozen. __Edward V Berard__
+25. > Programming isn't about what you know; it's about what you can figure out. __Chris Pine__
+26. > The question of whether a computer can think is no more interesting than the question of whether a submarine can swim. __Edsger Dijkstra__
+27. > Debugging is like being the detective in a crime movie where you are also the murderer. __Filipe Fortes__
+28. > when you don't create things, you become defined by your tastes rather than ability. ...
