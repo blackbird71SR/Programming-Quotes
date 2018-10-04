@@ -28,3 +28,4 @@
 28. > when you don't create things, you become defined by your tastes rather than ability. ...
 29. > Without requirements and design, programming is the art of adding bugs to an empty text file. __Louis Srygley__
 30. > Computers are good at following instructions,but not at reading your mind. __Donald Knuth__
+31. > Go To Statement Considered Harmful. __Edsger Dijkstra__
