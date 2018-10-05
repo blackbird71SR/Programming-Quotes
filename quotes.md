@@ -8,3 +8,4 @@
 8. > Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the Universe trying to produce bigger and better idiots. So far, the Universe is winning.__Rick Cook__
 9. > Punishments include such things as flashbacks, flooding of unbearable emotions, painful body memories, flooding of memories in which the survivor perpetrated against others, self-harm, and suicide attempts. __Alison Miller__
 10.> Computers are good at following instructions,but not at reading your mind. __Donald Knuth__
+11.> If debugging is the process of removing software bugs, then programming must be the process of putting them in. __Edsger Dijkstra__
