@@ -31,3 +31,4 @@
 31. > Go To Statement Considered Harmful. __Edsger Dijkstra__
 32. > At the end of the day we're all code monkeys trying to make weird libraries work together by writing shitty hacks. __Kristijan Ristovski__
 33. > Premature optimization is the root of all evil. __Donald Knuth__
+34. > Kids who are good at traditional school—repeating rote concepts and facts on a test—can fall apart in a situation where that isn’t enough. Programming rewards the experimental, curious mind. __Ketil Moland Olsen__
