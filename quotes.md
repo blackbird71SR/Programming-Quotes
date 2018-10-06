@@ -20,7 +20,7 @@
 20. > Everybody in this country should learn to program a computer, because it teaches you how to think! __Steve Jobs__
 21. > When debugging, novices insert corrective code; experts remove defective code. __Richard Pattis__
 22. > Before software can be reusable it first has to be usable. __Ralph Johnson__
-23. > Enlightenment is the unprogrammed state. __Jed McKenna__ 
+23. > Enlightenment is the unprogrammed state. __Jed McKenna__
 24. > Walking on water and developing software from a specification are easy if both are frozen. __Edward V Berard__
 25. > Programming isn't about what you know; it's about what you can figure out. __Chris Pine__
 26. > The question of whether a computer can think is no more interesting than the question of whether a submarine can swim. __Edsger Dijkstra__
@@ -32,3 +32,5 @@
 32. > At the end of the day we're all code monkeys trying to make weird libraries work together by writing shitty hacks. __Kristijan Ristovski__
 33. > Premature optimization is the root of all evil. __Donald Knuth__
 34. > Kids who are good at traditional school—repeating rote concepts and facts on a test—can fall apart in a situation where that isn’t enough. Programming rewards the experimental, curious mind. __Ketil Moland Olsen__
+35. > Whether you want to uncover the secrets of the universe , or you just want to pursue a career in 21st century , basic computer programming is an essential skills to learn. __Stephen Hawking__
+36. > Computers themselves, and software yet to be developed, will revolutionize the way we learn. __Steve Jobs__ 
