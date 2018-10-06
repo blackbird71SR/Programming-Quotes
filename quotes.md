@@ -36,3 +36,6 @@
 36. > If debugging is the process of removing software bugs, then programming must be the process of putting them in. __Edsger Dijkstra__
 37. > Programming can be fun, so can cryptography; however they should not be combined. __Kreitzberg and Shneiderman__
 38. > Truth can only be found in one place: the code. __Robert C. Martin__
+39. > Code is like humor. When you have to explain it, it’s bad. __Cory House__
+40. > Don’t worry if it doesn’t work right. If everything did, you’d be out of a job. __Mosher’s Law of Software Engineering__
+41. > Programming is the art of algorithm design and the craft of debugging errant code. __Ellen Ullman__
