@@ -35,3 +35,4 @@
 35. > We build our computer systems the way we build our cities: over time, without a plan, and on top of ruins. __Ellen Ullman__
 36. > If debugging is the process of removing software bugs, then programming must be the process of putting them in. __Edsger Dijkstra__
 37. > Programming can be fun, so can cryptography; however they should not be combined. __Kreitzberg and Shneiderman__
+38. > Truth can only be found in one place: the code. __Robert C. Martin__
