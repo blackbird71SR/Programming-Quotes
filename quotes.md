@@ -33,3 +33,5 @@
 33. > Premature optimization is the root of all evil. __Donald Knuth__
 34. > Kids who are good at traditional school—repeating rote concepts and facts on a test—can fall apart in a situation where that isn’t enough. Programming rewards the experimental, curious mind. __Ketil Moland Olsen__
 35. > We build our computer systems the way we build our cities: over time, without a plan, and on top of ruins. __Ellen Ullman__
+36. > If debugging is the process of removing software bugs, then programming must be the process of putting them in. __Edsger Dijkstra__
+37. > Programming can be fun, so can cryptography; however they should not be combined. __Kreitzberg and Shneiderman__
