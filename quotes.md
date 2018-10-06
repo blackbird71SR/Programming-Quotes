@@ -8,7 +8,7 @@
 8. > Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the Universe trying to produce bigger and better idiots. So far, the Universe is winning.__Rick Cook__
 9. > Punishments include such things as flashbacks, flooding of unbearable emotions, painful body memories, flooding of memories in which the survivor perpetrated against others, self-harm, and suicide attempts. __Alison Miller__
 10. > Computers are good at following instructions,but not at reading your mind. __Donald Knuth__
-11. > 80% of Computer Science is detective work. You have to investigate to determine what did and didn't happen and why.  __Tom Bredemeier__
+11. > 80% of Computer Science is detective work. You have to investigate to determine what did and didn't happen and why. __Tom Bredemeier__
 12. > Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program. __Linus Torvalds__
 13. > The idea that I can be presented with a problem, set out to logically solve it with the tools at hand, and wind up with a program that could not be legally used because someone else followed the same logical steps some years ago and filed for a patent on it is horrifying. __John Carmack__
 14. > Everyone knows that debugging is twice as hard as writing a program in the first place. So if you're as clever as you can be when you write it, how will you ever debug it? __Brian Kernighan__
@@ -20,7 +20,7 @@
 20. > Everybody in this country should learn to program a computer, because it teaches you how to think! __Steve Jobs__
 21. > When debugging, novices insert corrective code; experts remove defective code. __Richard Pattis__
 22. > Before software can be reusable it first has to be usable. __Ralph Johnson__
-23. > Enlightenment is the unprogrammed state. __Jed McKenna__ 
+23. > Enlightenment is the unprogrammed state. __Jed McKenna__
 24. > Walking on water and developing software from a specification are easy if both are frozen. __Edward V Berard__
 25. > Programming isn't about what you know; it's about what you can figure out. __Chris Pine__
 26. > The question of whether a computer can think is no more interesting than the question of whether a submarine can swim. __Edsger Dijkstra__
@@ -31,6 +31,7 @@
 31. > Go To Statement Considered Harmful. __Edsger Dijkstra__
 32. > At the end of the day we're all code monkeys trying to make weird libraries work together by writing shitty hacks. __Kristijan Ristovski__
 33. > Premature optimization is the root of all evil. __Donald Knuth__
-34. > If debugging is the process of removing software bugs, then programming must be the process of putting them in. __Edsger Dijkstra__
-35. > Programming can be fun, so can cryptography; however they should not be combined. __Kreitzberg and Shneiderman__
-36. > Kids who are good at traditional school—repeating rote concepts and facts on a test—can fall apart in a situation where that isn’t enough. Programming rewards the experimental, curious mind. __Ketil Moland Olsen__
+34. > Kids who are good at traditional school—repeating rote concepts and facts on a test—can fall apart in a situation where that isn’t enough. Programming rewards the experimental, curious mind. __Ketil Moland Olsen__
+35. > We build our computer systems the way we build our cities: over time, without a plan, and on top of ruins. __Ellen Ullman__
+36. > If debugging is the process of removing software bugs, then programming must be the process of putting them in. __Edsger Dijkstra__
+37. > Programming can be fun, so can cryptography; however they should not be combined. __Kreitzberg and Shneiderman__
