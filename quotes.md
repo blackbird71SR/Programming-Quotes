@@ -39,3 +39,4 @@
 39. > Code is like humor. When you have to explain it, it’s bad. __Cory House__
 40. > Don’t worry if it doesn’t work right. If everything did, you’d be out of a job. __Mosher’s Law of Software Engineering__
 41. > Programming is the art of algorithm design and the craft of debugging errant code. __Ellen Ullman__
+42. > People think that computer science is the art of geniuses but the actual reality is the opposite, just many people doing things that build on eachother, like a wall of mini stones. __Donald Knuth__
