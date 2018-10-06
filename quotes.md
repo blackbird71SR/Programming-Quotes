@@ -8,7 +8,7 @@
 8. > Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the Universe trying to produce bigger and better idiots. So far, the Universe is winning.__Rick Cook__
 9. > Punishments include such things as flashbacks, flooding of unbearable emotions, painful body memories, flooding of memories in which the survivor perpetrated against others, self-harm, and suicide attempts. __Alison Miller__
 10. > Computers are good at following instructions,but not at reading your mind. __Donald Knuth__
-11. > 80% of Computer Science is detective work. You have to investigate to determine what did and didn't happen and why.  __Tom Bredemeier__
+11. > 80% of Computer Science is detective work. You have to investigate to determine what did and didn't happen and why. __Tom Bredemeier__
 12. > Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program. __Linus Torvalds__
 13. > The idea that I can be presented with a problem, set out to logically solve it with the tools at hand, and wind up with a program that could not be legally used because someone else followed the same logical steps some years ago and filed for a patent on it is horrifying. __John Carmack__
 14. > Everyone knows that debugging is twice as hard as writing a program in the first place. So if you're as clever as you can be when you write it, how will you ever debug it? __Brian Kernighan__
@@ -32,5 +32,13 @@
 32. > At the end of the day we're all code monkeys trying to make weird libraries work together by writing shitty hacks. __Kristijan Ristovski__
 33. > Premature optimization is the root of all evil. __Donald Knuth__
 34. > Kids who are good at traditional school—repeating rote concepts and facts on a test—can fall apart in a situation where that isn’t enough. Programming rewards the experimental, curious mind. __Ketil Moland Olsen__
-35. > Whether you want to uncover the secrets of the universe , or you just want to pursue a career in 21st century , basic computer programming is an essential skills to learn. __Stephen Hawking__
-36. > Computers themselves, and software yet to be developed, will revolutionize the way we learn. __Steve Jobs__ 
+35. > We build our computer systems the way we build our cities: over time, without a plan, and on top of ruins. __Ellen Ullman__
+36. > If debugging is the process of removing software bugs, then programming must be the process of putting them in. __Edsger Dijkstra__
+37. > Programming can be fun, so can cryptography; however they should not be combined. __Kreitzberg and Shneiderman__
+38. > Truth can only be found in one place: the code. __Robert C. Martin__
+39. > Code is like humor. When you have to explain it, it’s bad. __Cory House__
+40. > Don’t worry if it doesn’t work right. If everything did, you’d be out of a job. __Mosher’s Law of Software Engineering__
+41. > Programming is the art of algorithm design and the craft of debugging errant code. __Ellen Ullman__
+42. > People think that computer science is the art of geniuses but the actual reality is the opposite, just many people doing things that build on eachother, like a wall of mini stones. __Donald Knuth__
+43. > Whether you want to uncover the secrets of the universe , or you just want to pursue a career in 21st century , basic computer programming is an essential skills to learn. __Stephen Hawking__
+44. > Computers themselves, and software yet to be developed, will revolutionize the way we learn. __Steve Jobs__ 
