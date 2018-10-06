@@ -5,7 +5,7 @@
 5. > No one in the brief history of computing has ever written a piece of perfect software. It's unlikely that you'll be the first. __Andy Hunt__
 6. > What one programmer can do in one month, two programmers can do in two months. __Fred Brooks__
 7. > Programming: when the ideas turn into the real things. __Maciej Kaczmarek__
-8. > Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the Universe trying to produce bigger and better idiots. So far, the Universe is winning.__Rick Cook__
+8. > Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the Universe trying to produce bigger and better idiots. So far, the Universe is winning. __Rick Cook__
 9. > Punishments include such things as flashbacks, flooding of unbearable emotions, painful body memories, flooding of memories in which the survivor perpetrated against others, self-harm, and suicide attempts. __Alison Miller__
 10. > Computers are good at following instructions,but not at reading your mind. __Donald Knuth__
 11. > 80% of Computer Science is detective work. You have to investigate to determine what did and didn't happen and why. __Tom Bredemeier__
@@ -25,7 +25,7 @@
 25. > Programming isn't about what you know; it's about what you can figure out. __Chris Pine__
 26. > The question of whether a computer can think is no more interesting than the question of whether a submarine can swim. __Edsger Dijkstra__
 27. > Debugging is like being the detective in a crime movie where you are also the murderer. __Filipe Fortes__
-28. > when you don't create things, you become defined by your tastes rather than ability. ...
+28. > When you don't create things, you become defined by your tastes rather than ability. ...
 29. > Without requirements and design, programming is the art of adding bugs to an empty text file. __Louis Srygley__
 30. > Computers are good at following instructions,but not at reading your mind. __Donald Knuth__
 31. > Go To Statement Considered Harmful. __Edsger Dijkstra__
@@ -42,3 +42,5 @@
 42. > People think that computer science is the art of geniuses but the actual reality is the opposite, just many people doing things that build on eachother, like a wall of mini stones. __Donald Knuth__
 43. > Whether you want to uncover the secrets of the universe , or you just want to pursue a career in 21st century , basic computer programming is an essential skills to learn. __Stephen Hawking__
 44. > Computers themselves, and software yet to be developed, will revolutionize the way we learn. __Steve Jobs__ 
+45. > One of the best programming skills you can have is knowing when to walk away for awhile. __Oscar Godson__
+46. > Programs must be written for people to read, and only incidentally for machines to execute. __Harold Abelson__
