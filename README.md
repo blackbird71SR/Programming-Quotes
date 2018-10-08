@@ -2,7 +2,8 @@
   <img src="https://github.com/Shaedil/Programming-Quotes/blob/master/Programming%20quotes%20Banner.jpg" alt="School of Athens: Programming Quotes">
 </a>
 
-<p align="center"> <a href="https://omkar-ajnadkar.github.io/Programming-Quotes/quotes.html">A repository containing various programming quotes.</p>
+<p align="center"> <a href="https://omkar-ajnadkar.github.io/Programming-Quotes/quotes.html">A repository containing various programming quotes.</a> </p>
+
 <p align="center">Let's create a list of programming related quotes in this Hacktoberfest...</p>
 
 ## Rules:
