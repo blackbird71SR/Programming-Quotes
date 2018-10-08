@@ -1,5 +1,5 @@
 <a href="https://omkar-ajnadkar.github.io/Programming-Quotes/quotes.html">
-  <img src="https://github.com/Shaedil/Programming-Quotes/blob/master/Programming%20quotes%20Banner.jpg" alt="School of Athens: Programming Quotes">
+  <img src="https://github.com/Omkar-Ajnadkar/Programming-Quotes/blob/master/Programming%20quotes%20Banner.jpg" alt="School of Athens: Programming Quotes">
 </a>
 
 <p align="center"> <a href="https://omkar-ajnadkar.github.io/Programming-Quotes/quotes.html">A repository containing various programming quotes.</a> </p>
