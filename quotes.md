@@ -27,18 +27,17 @@
 27. > Debugging is like being the detective in a crime movie where you are also the murderer. __Filipe Fortes__
 28. > when you don't create things, you become defined by your tastes rather than ability. ...
 29. > Without requirements and design, programming is the art of adding bugs to an empty text file. __Louis Srygley__
-30. > Computers are good at following instructions,but not at reading your mind. __Donald Knuth__
-31. > Go To Statement Considered Harmful. __Edsger Dijkstra__
-32. > At the end of the day we're all code monkeys trying to make weird libraries work together by writing shitty hacks. __Kristijan Ristovski__
-33. > Premature optimization is the root of all evil. __Donald Knuth__
-34. > Kids who are good at traditional school—repeating rote concepts and facts on a test—can fall apart in a situation where that isn’t enough. Programming rewards the experimental, curious mind. __Ketil Moland Olsen__
-35. > We build our computer systems the way we build our cities: over time, without a plan, and on top of ruins. __Ellen Ullman__
-36. > If debugging is the process of removing software bugs, then programming must be the process of putting them in. __Edsger Dijkstra__
-37. > Programming can be fun, so can cryptography; however they should not be combined. __Kreitzberg and Shneiderman__
-38. > Truth can only be found in one place: the code. __Robert C. Martin__
-39. > Code is like humor. When you have to explain it, it’s bad. __Cory House__
-40. > Don’t worry if it doesn’t work right. If everything did, you’d be out of a job. __Mosher’s Law of Software Engineering__
-41. > Programming is the art of algorithm design and the craft of debugging errant code. __Ellen Ullman__
-42. > People think that computer science is the art of geniuses but the actual reality is the opposite, just many people doing things that build on eachother, like a wall of mini stones. __Donald Knuth__
-43. > Whether you want to uncover the secrets of the universe , or you just want to pursue a career in 21st century , basic computer programming is an essential skills to learn. __Stephen Hawking__
-44. > Computers themselves, and software yet to be developed, will revolutionize the way we learn. __Steve Jobs__ 
+30. > Go To Statement Considered Harmful. __Edsger Dijkstra__
+31. > At the end of the day we're all code monkeys trying to make weird libraries work together by writing shitty hacks. __Kristijan Ristovski__
+32. > Premature optimization is the root of all evil. __Donald Knuth__
+33. > Kids who are good at traditional school—repeating rote concepts and facts on a test—can fall apart in a situation where that isn’t enough. Programming rewards the experimental, curious mind. __Ketil Moland Olsen__
+34. > We build our computer systems the way we build our cities: over time, without a plan, and on top of ruins. __Ellen Ullman__
+35. > If debugging is the process of removing software bugs, then programming must be the process of putting them in. __Edsger Dijkstra__
+36. > Programming can be fun, so can cryptography; however they should not be combined. __Kreitzberg and Shneiderman__
+37. > Truth can only be found in one place: the code. __Robert C. Martin__
+38. > Code is like humor. When you have to explain it, it’s bad. __Cory House__
+39. > Don’t worry if it doesn’t work right. If everything did, you’d be out of a job. __Mosher’s Law of Software Engineering__
+40. > Programming is the art of algorithm design and the craft of debugging errant code. __Ellen Ullman__
+41. > People think that computer science is the art of geniuses but the actual reality is the opposite, just many people doing things that build on eachother, like a wall of mini stones. __Donald Knuth__
+42. > Whether you want to uncover the secrets of the universe , or you just want to pursue a career in 21st century , basic computer programming is an essential skills to learn. __Stephen Hawking__
+43. > Computers themselves, and software yet to be developed, will revolutionize the way we learn. __Steve Jobs__ 
