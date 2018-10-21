@@ -41,4 +41,6 @@
 41. > Programming is the art of algorithm design and the craft of debugging errant code. __Ellen Ullman__
 42. > People think that computer science is the art of geniuses but the actual reality is the opposite, just many people doing things that build on eachother, like a wall of mini stones. __Donald Knuth__
 43. > Whether you want to uncover the secrets of the universe , or you just want to pursue a career in 21st century , basic computer programming is an essential skills to learn. __Stephen Hawking__
-44. > Computers themselves, and software yet to be developed, will revolutionize the way we learn. __Steve Jobs__ 
+44. > Computers themselves, and software yet to be developed, will revolutionize the way we learn. __Steve Jobs__
+45. > If it's a good idea, go ahead and do it. It is much easier to apologize than it is to get permission. __Grace Hopper__
+46. > The world would be a better place if more engineers, like me, hated technology. The stuff I design, if I’m successful, nobody will ever notice. Things will just work, and be self-managing. __Radia Pearlman__
