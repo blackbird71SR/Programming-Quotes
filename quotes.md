@@ -1,4 +1,4 @@
-1. > You might not think that programmers are artists, but programming is an extremely creative profession. It's logic-based creativity. __John Romero__
+﻿1. > You might not think that programmers are artists, but programming is an extremely creative profession. It's logic-based creativity. __John Romero__
 2. > Talk is cheap. Show me the code. __Linus Torvalds__
 3. > I'm not a great programmer; I'm just a good programmer with great habits. __Kent Beck__
 4. > If builders built buildings the way programmers wrote programs, then the first woodpecker that came along would destroy civilization. __Gerald Weinberg__
@@ -40,5 +40,7 @@
 40. > Don’t worry if it doesn’t work right. If everything did, you’d be out of a job. __Mosher’s Law of Software Engineering__
 41. > Programming is the art of algorithm design and the craft of debugging errant code. __Ellen Ullman__
 42. > People think that computer science is the art of geniuses but the actual reality is the opposite, just many people doing things that build on eachother, like a wall of mini stones. __Donald Knuth__
-43. > Whether you want to uncover the secrets of the universe , or you just want to pursue a career in 21st century , basic computer programming is an essential skills to learn. __Stephen Hawking__
+43. > Whether you want to uncover the secrets of the universe , or you just want to pursue a career in 21st century , basic computer programming is an essential skills to learn.__Stephen Hawking__
 44. > Computers themselves, and software yet to be developed, will revolutionize the way we learn. __Steve Jobs__ 
+45. > Laziest person is the best programmer.__Anonymous__
+46. > Never under estimate women in tech, because first person to write an algorithm was a women.__Anonymous__
