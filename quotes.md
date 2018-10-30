@@ -42,3 +42,8 @@
 42. > People think that computer science is the art of geniuses but the actual reality is the opposite, just many people doing things that build on eachother, like a wall of mini stones. __Donald Knuth__
 43. > Whether you want to uncover the secrets of the universe , or you just want to pursue a career in 21st century , basic computer programming is an essential skills to learn. __Stephen Hawking__
 44. > Computers themselves, and software yet to be developed, will revolutionize the way we learn. __Steve Jobs__ 
+45. > For each desired change, make the change easy (warning: this may be hard), then make the easy change. __Kent Beck__
+46. > I always knew that one day Smalltalk would replace Java. I just didn't know it would be called Ruby.  __Kent Beck__
+47. > Modeling Principle: Models are not right or wrong; they are more or less useful. __Martin Fowler__
+48. > When you feel the need to write a comment, first try to refactor the code so that any comment becomes superfluous. __Martin Fowler__
+49. > The definition I use for pattern is an idea that has been useful in one practical context and will probably be useful in others  __Martin Fowler__
