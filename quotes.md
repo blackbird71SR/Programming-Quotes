@@ -42,3 +42,5 @@
 42. > People think that computer science is the art of geniuses but the actual reality is the opposite, just many people doing things that build on eachother, like a wall of mini stones. __Donald Knuth__
 43. > Whether you want to uncover the secrets of the universe , or you just want to pursue a career in 21st century , basic computer programming is an essential skills to learn. __Stephen Hawking__
 44. > Computers themselves, and software yet to be developed, will revolutionize the way we learn. __Steve Jobs__ 
+45. > There are only two hard things in Computer Science: cache invalidation and naming things. __Phil Karlton__ 
+46. > Give someone a program, you frustrate them for a day; teach them how to program, you frustrate them for a lifetime. __David Leinweber__
