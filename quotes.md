@@ -44,3 +44,4 @@
 44. > Computers themselves, and software yet to be developed, will revolutionize the way we learn. __Steve Jobs__ 
 45. > Laziest person is the best programmer.__Anonymous__
 46. > Never under estimate women in tech, because first person to write an algorithm was a women.__Anonymous__
+47. > A program a day makes better anyway.__Anonymous__
