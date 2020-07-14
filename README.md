@@ -1,9 +1,10 @@
-# Programming-Quotes
-Repository containing various programming quotes
+<a href="https://omkar-ajnadkar.github.io/Programming-Quotes/quotes.html">
+  <img src="https://github.com/Omkar-Ajnadkar/Programming-Quotes/blob/master/Programming%20quotes%20Banner.jpg" alt="School of Athens: Programming Quotes">
+</a>
 
-[Quotes](https://omkar-ajnadkar.github.io/Programming-Quotes/quotes.html)
+<p align="center"> <a href="https://omkar-ajnadkar.github.io/Programming-Quotes/quotes.html">A repository containing various programming quotes.</a> </p>
 
-Let's create a list of programming related quotes in this Hacktoberfest...
+<p align="center">Let's create a list of programming related quotes in this Hacktoberfest...</p>
 
 ## Rules:
 
